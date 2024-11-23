@@ -2,9 +2,7 @@ import React from 'react';
 import { View, Text, Image } from 'react-native';
 import Input from '@/components/Input';
 import ConfirmationButton from '@/components/ConfirmationButton';
-import { styles } from '.';
-
-
+import { styles } from '../index';
 
 const RegisterScreen: React.FC = () => {
   return (
